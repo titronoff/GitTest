@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("hello world")
         doSomething()
         //1
+        //2
     }
 
     func doSomething() {
