@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     func doSomething() {
-        message.text = " ... doing something ... "
+        message.text = " .. doing something .. "
     }
 
 }
