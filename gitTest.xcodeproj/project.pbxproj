@@ -13,6 +13,7 @@
 		E9EBE3E525C1DA91002CEA26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9EBE3E325C1DA91002CEA26 /* Main.storyboard */; };
 		E9EBE3E725C1DA93002CEA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9EBE3E625C1DA93002CEA26 /* Assets.xcassets */; };
 		E9EBE3EA25C1DA93002CEA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9EBE3E825C1DA93002CEA26 /* LaunchScreen.storyboard */; };
+		E9EBE3F325C1E623002CEA26 /* Print.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9EBE3F225C1E623002CEA26 /* Print.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E9EBE3E625C1DA93002CEA26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9EBE3E925C1DA93002CEA26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9EBE3EB25C1DA93002CEA26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9EBE3F225C1E623002CEA26 /* Print.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Print.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E9EBE3DD25C1DA91002CEA26 /* AppDelegate.swift */,
 				E9EBE3DF25C1DA91002CEA26 /* SceneDelegate.swift */,
 				E9EBE3E125C1DA91002CEA26 /* ViewController.swift */,
+				E9EBE3F225C1E623002CEA26 /* Print.swift */,
 				E9EBE3E325C1DA91002CEA26 /* Main.storyboard */,
 				E9EBE3E625C1DA93002CEA26 /* Assets.xcassets */,
 				E9EBE3E825C1DA93002CEA26 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				E9EBE3E225C1DA91002CEA26 /* ViewController.swift in Sources */,
 				E9EBE3DE25C1DA91002CEA26 /* AppDelegate.swift in Sources */,
 				E9EBE3E025C1DA91002CEA26 /* SceneDelegate.swift in Sources */,
+				E9EBE3F325C1E623002CEA26 /* Print.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

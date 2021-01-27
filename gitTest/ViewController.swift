@@ -13,12 +13,20 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hello world")
+
+        print("hello world!")
+        print("hello everybody!")
+        print("Hi There!")
+        print("we are glad to see you!")
+        let log = Print()
+        log.printMessage(text: "show welcomeScreen")
+        log.printMessage(text: "saying hello")
         doSomething()
         // main1
         // main2
         // main3
         // 1
+
     }
 
     func doSomething() {
