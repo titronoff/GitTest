@@ -1,0 +1,40 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+xcuserdata/
+*.hmap
+# bundler
+/.bundle/
+!Gemfile.lock
+
+####
+# Xcode temporary files that should never be committed
+# 
+# NB: NIB/XIB files still exist even on Storyboard projects, so we want this...
+*~.nib
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Build generated
+build/
+Carthage/Build/
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+iOSInjectionProject/
+
+
