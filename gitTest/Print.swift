@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+class Print {
+    
+    func printMessage (text: String) {
+        print(text)
+    }
+}
