@@ -36,5 +36,21 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 iOSInjectionProject/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
 
+# OSX Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# vim
+*.swp
 
