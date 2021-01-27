@@ -16,7 +16,9 @@ class ViewController: UIViewController {
         print("Hi there")
         
         let log = Print()
+        log.printMessage(text: "show welcomeScreen")
         log.printMessage(text: "saying hello")
+        
     }
 
 
