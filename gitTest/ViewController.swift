@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("hello world")
         doSomething()
+        // main1
+        // main2
+        // main3
     }
 
     func doSomething() {
